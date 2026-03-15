@@ -128,21 +128,6 @@ Fahrzeuge zurück zur Wache schicken
 
 Fahrzeuge löschen
 
-UI-Layout:
-
-[ PATIENT ]   [ START ]
-
-[SEND]   [RETURN]   [DELETE]
-📦 Plugin-Struktur
-PythonPlugins/
-
-PI_EMER_Dispatch_UI_Window_V12_8.py
-PI_EMER_Dispatch_VAR_V12.py
-PI_EMER_Patient_AI_V4.py
-Dateien
-Dispatch UI
-PI_EMER_Dispatch_UI_Window_V12_8.py
-
 Steuert:
 
 UI Fenster
@@ -154,7 +139,7 @@ Dispatch Buttons
 Anzeige
 
 Dispatch Backend
-PI_EMER_Dispatch_VAR_V12.py
+
 
 Steuert:
 
@@ -167,7 +152,6 @@ Stationsdaten
 Fahrzeugnavigation
 
 Patienten KI
-PI_EMER_Patient_AI_V4.py
 
 Steuert:
 
