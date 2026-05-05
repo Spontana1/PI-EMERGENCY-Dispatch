@@ -1,4 +1,4 @@
-# PI-EMERGENCY-Dispatch
+# RESCUE-Dispatch
 
 🚑 X-Plane Emergency System
 
